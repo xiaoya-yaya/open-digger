@@ -5,13 +5,12 @@ data:
     - delta_lake
     - mlflow
     - neon
+    - spark
     - unity_catalog
   platforms:
     - name: GitHub
       type: Code Hosting
       repos:
-        - id: 17165658
-          name: apache/spark
         - id: 13926404
           name: getredash/redash
       orgs:

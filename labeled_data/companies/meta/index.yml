@@ -8,6 +8,7 @@ data:
     - pytorch
     - react_native
     - rocksdb
+    - spring_projects
     - velox
   platforms:
     - name: GitHub

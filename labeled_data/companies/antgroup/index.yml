@@ -19,10 +19,10 @@ data:
     - cnpm
     - codefuse
     - couler
+    - dbgpt
     - dtvm
     - dva
     - egg
-    - eosphoros
     - fury
     - galacean
     - geaflow
