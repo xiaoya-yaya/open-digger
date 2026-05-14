@@ -11,6 +11,7 @@ data:
     - ant_mini_program
     - antchain
     - antd
+    - ant_design_x
     - antv
     - aq-medai
     - areal
@@ -51,6 +52,7 @@ data:
     - petercat
     - react_component
     - secretflow
+    - seekdb
     - sofastack
     - sqlflow
     - tongsuo

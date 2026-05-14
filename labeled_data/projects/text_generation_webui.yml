@@ -1,0 +1,11 @@
+name: Text Generation WebUI
+description: Desktop web UI for running local large language models.
+description_zh: 用于运行本地大语言模型的桌面 Web UI。
+type: Project
+data:
+  platforms:
+    - name: GitHub
+      type: Code Hosting
+      repos:
+        - id: 580642043
+          name: oobabooga/textgen
