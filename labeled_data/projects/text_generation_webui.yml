@@ -1,6 +1,6 @@
-name: Text Generation WebUI
-description: Desktop web UI for running local large language models.
-description_zh: 用于运行本地大语言模型的桌面 Web UI。
+name: TextGen
+description: Open-source desktop app for local LLMs with text, vision, tool-calling, and API support.
+description_zh: 支持文本、视觉、工具调用和 API 的本地大语言模型开源桌面应用。
 type: Project
 data:
   platforms:
