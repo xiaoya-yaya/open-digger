@@ -8,10 +8,10 @@ data:
     - ':companies/alibaba/seata'
     - agent_universe
     - aigw
+    - ant_design_x
     - ant_mini_program
     - antchain
     - antd
-    - ant_design_x
     - antv
     - aq-medai
     - areal
